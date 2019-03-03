@@ -36,25 +36,6 @@ buildNumber.properties
 
 # Eclipse
 
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @michelebortolato Sign out
-2,751
-79,760 38,287 github/gitignore
- Code  Pull requests 82  Projects 0  Insights
-gitignore/Global/Eclipse.gitignore
-@shiftkey shiftkey Merge pull request #2649 from lukoerfer/master
-e833921  on 17 Jun 2018
-@shiftkey @sherzodv @tyutyutyu @aroben @Utumno @segfly @drasolka @rlee287 @rafiw @raeglan @mimibar @fhemberger @lukoerfer @leandrodeleite @jcarsique @jayvdb @harshadsabne @gAmUssA @DenisGorbachev @pangratz @defunkt @arinto @apetresc @alexkaratarakis
-57 lines (41 sloc)  754 Bytes
-    
-
 .metadata
 bin/
 tmp/
