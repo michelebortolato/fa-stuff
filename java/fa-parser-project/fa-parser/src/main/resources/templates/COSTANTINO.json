@@ -1,0 +1,29 @@
+{
+	"PEC": "mirano_costantino@pec.it",
+	"dati_anagrafici": {
+		"idPaese": "IT",
+		"idCodice": "01209641008",
+		"denominazione": "CASA GEN.PIA SOC.TORINESE DI S.GIUSEPPE"
+	},
+	"sede": {
+		"indirizzo": "VIA MURIALDO 1",
+		"CAP": "30035",
+		"comune": "MIRANO",
+		"provincia": "VE",
+		"nazione": "IT"
+	},
+	"pricedItems": {
+		"Vera Nat 24x50cl PET lt:4128087209": 3.50,
+		"Vera Frz 24x50cl PET lt:4023087209": 3.50,
+		"Pepsi cola lattina 24x33cl": 7.00,
+		"Vera Beltè pesca 12x50cl lt:4307087211": 5.00,
+		"Vera Beltè Limone 12x50cl lt:4308087211": 5.00,
+		"Coca cola lattina 24x33cl": 11.31,
+		"Fanta lattina 24x33cl": 11.31,
+		"Fanta 12x45cl": 9.00,
+		"S.benedetto the limone lattina 24x33cl": 7.50,
+		"S.Benedetto The verde 12x0,5L": 5.80,
+		"Coca Cola Pet 24x50cl": 18.00,
+		"Pepsi pet 24x50": 15.60
+	}
+}

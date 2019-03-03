@@ -1,0 +1,34 @@
+{
+	"SDI": "M5UXCR1",
+	"dati_anagrafici": {
+		"idPaese": "IT",
+		"idCodice": "02922280272",
+		"denominazione": "BALDAN GIORGIO"
+	},
+	"sede": {
+		"indirizzo": "VIA GRAMSCI 32",
+		"CAP": "30035",
+		"comune": "MIRANO",
+		"provincia": "VE",
+		"nazione": "IT"
+	},
+	"pricedItems": {
+		"Levico nat 12x1L": 2.60,
+		"Levissima nat 12x1L lt:3290087108": 3.90,
+		"Plose naturale 12x1L": 4.80,
+		"Lissa nat 12x1L": 1.95,
+		"Lissa lfr 12x1L": 1.95,
+		"Lissa frz 12x1L": 1.95,
+		"Lauretana nat12x1L": 3.63,
+		"Pejo nat 12x1L lt:4091087501": 2.40,
+		"Pejo lfr 12x1L lt:4119087501": 2.40,
+		"Pejo frz 12x1L lt:4126087501": 2.40,
+		"Recoaro nat 12x1L TV lt:5257087601": 3.85,
+		"Coca cola var 12x1L": 12.6,
+		"Lissa aranciata 12x1L": 4.84,
+		"Lissa ginger 12x1L": 4.84,
+		"Lissa pompelmo 12x1L": 4.84,
+		"Rocchetta brio blu 6x1,5L": 2.36,
+		"Rocchetta min.naturale 6x1,5L": 2.36
+	}
+}
